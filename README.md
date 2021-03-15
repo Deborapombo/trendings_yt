@@ -24,7 +24,7 @@ Download Node.js Installer from: https://nodejs.org/en/download/
 To run the project some dependencies are needed, to install them you need to run: 
 
 ```
-npm install --global package.json
+npm install package.json
 ```
 
 Also you will need to install a selenium server and browser driver manager, to install them you need to run:
