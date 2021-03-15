@@ -20,9 +20,9 @@ exports.config = {
   directConnect: true,
   baseUrl: 'https://youtube.com',
   specs: [
-    'youtube_trending/src/trendings/trendings.e2e-spec.ts'],
+    'youtube_trendings/src/trendings/trendings.e2e-spec.ts'],
   suites: {
-    trending_page: ['youtube_trending/src/trendings/trendings.e2e-spec.ts']
+    trending_page: ['youtube_trendings/src/trendings/trendings.e2e-spec.ts']
   },
   capabilities: {
     'browserName': 'chrome',
